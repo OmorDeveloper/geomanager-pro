@@ -28,7 +28,7 @@ mode. Buy a key on Telegram: [@osopvdeveloper](https://t.me/osopvdeveloper)
 Each release lists a SHA-256 checksum. Check the file you downloaded matches:
 
 ```powershell
-certutil -hashfile GeoManagerPro-1.1.14-x64-setup.exe SHA256
+certutil -hashfile GeoManagerPro-1.1.15-x64-setup.exe SHA256
 ```
 
 The build is not code-signed yet, so Windows SmartScreen shows “Windows
